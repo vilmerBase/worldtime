@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worldtime/static/css/main.b7af2b8d.css",
+    "main.js": "/worldtime/static/js/main.6380548d.js",
+    "static/js/453.2420e28d.chunk.js": "/worldtime/static/js/453.2420e28d.chunk.js",
+    "index.html": "/worldtime/index.html",
+    "main.b7af2b8d.css.map": "/worldtime/static/css/main.b7af2b8d.css.map",
+    "main.6380548d.js.map": "/worldtime/static/js/main.6380548d.js.map",
+    "453.2420e28d.chunk.js.map": "/worldtime/static/js/453.2420e28d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7af2b8d.css",
+    "static/js/main.6380548d.js"
+  ]
+}
